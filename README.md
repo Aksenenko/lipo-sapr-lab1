@@ -1,2 +1,4 @@
-# lipo-sapr-lab1
-ЛиПО САПР: Лабораторная работа №1
+# Helloer  
+Program for output input arguments. Made by C++.  
+Run program: `make; ./hello <argument>`  
+Tests for program: `make test`  
